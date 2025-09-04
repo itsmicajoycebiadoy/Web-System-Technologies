@@ -3,25 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SmartBug</title>
+    <title>Website Redesign: The Anatomy of a Great Homepage</title>
 </head>
 <body>
     <header>
         <section>
-            <img src="" alt="Logo">
+            <nav>
+                <img src="" alt="Logo">
 
-            <a href="">HubSpot Services</a>
-            <a href="">AI & Tech Services</a>
-            <a href="">Indusrries</a>
-            <a href="">Work & Awards</a>
-             <a href="">About</a>
-            <a href="">Resources</a>
+                <a href="">HubSpot Services</a>
+                <a href="">AI & Tech Services</a>
+                <a href="">Industries</a>
+                <a href="">Work & Awards</a>
+                <a href="">About</a>
+                <a href="">Resources</a>
 
-            <button>
-                <a href="">Lets Talk</a>
-             </button>
-         </section>
-              
+                <button>
+                    <a href="">Lets Talk</a>
+                </button>
+            </nav>
+         </section>        
     </header>
 
     <aside>
@@ -31,7 +32,7 @@
         <br>
 
         <button>
-            <a href="">Indeed</a>
+            <a href="">LinkedIN</a>
         </button>
         <br>
         
@@ -49,17 +50,18 @@
             <a href="">Google Email</a>
         </button>        
     </aside>
-
+    <br>
+    
     <main>
         <section>
             <article>
                  <img src="" alt="Image">
                 <h1>Website Redesign: The Anatomy of a Great Homepage</h1>
                 <p>February 6, 2020</p>
+                <p>By <a href="">Amanda Singleton</a></p>
             </article>
        
-            <article>
-                <p>By <a href="">Amanda Singleton</a></p>
+            <article> 
                 <p>In your home, chances are there are several points people could enter your house from—front doors, back doors, garage doors, windows, and so on—however, your guests probably enter your home from one point more times than all of the others combined.</p>
                 <p>That’s how the homepage of your website works, as well—there are several entry points and pages on your website, but more times than not, <a href="">users find your homepage first.</a></p>
                 <p>That’s why on a typical website, the homepage has the most traffic and links pointing to it. That’s because your homepage is the oldest URL on your website, your homepage typically has the most direct visits, and homepages are the most advertised URL for online and offline marketing channels.</p>
@@ -144,124 +146,127 @@
 
     <footer>
         <section>
-             <img src="" alt="Logo">
-             <br>
-             <button>
-                <a href="">Boost Revenue</a>
-             </button>
+            <ol>
+                <img src="" alt="Logo">
+                <br>
+                <button>
+                    <a href="">Boost Revenue</a>
+                </button>
+            
+
+                <aside>
+                    <button>
+                        <a href="">Facebook</a>
+                    </button>
         
-        <aside>
-            <button>
-                <a href="">Facebook</a>
-            </button>
- 
-            <button>
-                <a href="">Indeed</a>
-            </button>
+                    <button>
+                        <a href="">Indeed</a>
+                    </button>
 
-            <button>
-                <a href="">X</a>
-            </button>
-        
-            <button>
-                <a href="">Pinterest</a>
-            </button>
+                    <button>
+                        <a href="">X</a>
+                    </button>
+                
+                    <button>
+                        <a href="">Pinterest</a>
+                    </button>
 
-            <button>
-                <a href="">Google Email</a>
-            </button>        
-        </aside>
-             
-            <p>© 2025 SmartBug Media, Inc., a full-service digital agency.</p>
+                    <button>
+                        <a href="">Google Email</a>
+                    </button>        
+                </aside>
 
-            <a href="">Privacy</a> 
-            <a href="">Terms</a> 
-            <a href="">HIPAA</a>            
+                <p>© 2025 SmartBug Media, Inc., a full-service digital agency.</p>
+
+                <a href="">Privacy</a> 
+                <a href="">Terms</a> 
+                <a href="">HIPAA</a> 
+            </ol>
         </section>
 
         <section>
-            <h5>HubSpot Services</h5>
-            <a href="">HubSpot Onboarding</a> 
-                    HubSpot Admin 
-                    Marketing Hub 
-                    Sales Hub 
-                    Service Hub 
-                    Content Hub 
-                    Commerce Hub 
-                    Operations Hub
-                    Integrations & Migrations
-                    HubSpot Training</a> 
+            <ol><h5>HubSpot Services</h5></ol>
+            <ol><a href="">HubSpot Onboarding </ol>
+            <ol>HubSpot Admin </ol>
+            <ol>Marketing Hub </ol>
+            <ol>Sales Hub</ol> 
+            <ol>Service Hub </ol>
+            <ol>Content Hub </ol>
+            <ol>Commerce Hub </ol>
+            <ol>Operations Hub</ol>
+            <ol>Integrations & Migrations</ol>
+            <ol>HubSpot Training</ol></a>    
         </section>
 
         <section>
-            <h5>AI & Tech Services</h5>
-            <a href="">AI Agents & Development 
-                     Website Development
-                     E-commerce
-                     Web Apps
-                     Integrations & Migrations</a> 
+            <ol><h5>AI & Tech Services</h5></ol>
+            <ol><a href="">AI Agents & Development</ol>
+            <ol>Website Development</ol>
+            <ol>E-commerce</ol>
+            <ol>Web Apps</ol>
+            <ol>Integrations & Migrations</ol></a> 
         </section>
 
         <section>
-            <h5>Solutions</h5>
-            <a href="">Demand Generation 
-                     Sales enablement
-                     Paid Media
-                     Revenue Operations
-                     Customer success</a> 
+            <ol><h5>Solutions</h5></ol>
+            <ol><a href="">Demand Generation </ol>
+            <ol>Sales enablement</ol>
+            <ol>Paid Media</ol>
+            <ol>Revenue Operations</ol>
+            <ol>Customer success</ol></a> 
         </section>
 
         <section>
-            <h5>Work & Awards</h5>
-            <a href="">DCase Studies 
-                     Portfolio
-                     Client Testimonials 
-                     Awards
-                     Press</a> 
+            <ol><h5>Work & Awards</h5></ol>
+            <ol><a href="">DCase Studies</ol>
+            <ol>Portfolio</ol>
+            <ol>Client Testimonials </ol>
+            <ol>Awards</ol>
+            <ol>Press</ol></a> 
         </section>
 
         <section>
-            <h5>About</h5>
-            <a href="">Our Story 
-                     Meet the Team
-                     Partnerships 
-                     Events 
-                     Press 
-                     Careers
-                     SmartBug Culture 
-                     SmartBug Palooza
-                     Our Core Values</a>
+            <ol><h5>About</h5></Ol>
+            <ol><a href="">Our Story</ol>
+            <ol>Meet the Team</ol>
+            <ol>Partnerships </ol>
+            <ol>Events</ol>
+            <ol>Press Press</ol>
+            <ol>Careers</ol>
+            <ol>SmartBug Culture</ol>
+            <ol>SmartBug Palooza</ol>
+            <ol>Our Core Values</ol></a>
         </section>
 
         <section>
-            <h5>Platforms</h5>
-            <a href="">WordPress 
-                     Craft CMS
-                     Magento / Adobe Commerce 
-                     Shopify
-                     HubSpot</a> 
+            <ol><h5>Platforms</h5></ol>
+            <ol><a href="">WordPress </ol>
+            <ol>Craft CMS</ol>
+            <ol>Magento / Adobe Commerce </ol>
+            <ol>Shopify</ol>
+            <ol>HubSpot</ol></a> 
         </section>
 
         <section>
-            <h5>Industries</h5>
-            <a href="">Healthcare 
-                     Senior Living
-                     Manufacturing
-                     SaaS
-                     Finance 
-                     Franchise 
-                     Education</a> 
+            <ol><h5>Industries</h5></ol>
+            <ol><a href="">Healthcare</ol> 
+            <ol>Senior Living</ol>
+            <ol>Manufacturing</ol>
+            <ol>SaaS</ol>
+            <ol>Finance </ol>
+            <ol>Franchise </ol>
+            <ol>Education</ol></a> 
         </section>
 
         <section>
-            <h5>Resources</h5>
-            <a href="">Articles 
-                     E-Books
-                     Templates
-                     Webinars
-                     Podcasts
-                     Bootcamps
-                     Assessments</a>
+            <ol><h5>Resources</h5></ol>
+            <ol><a href="">Articles </ol>
+            <ol>E-Books</ol>
+            <ol>Templates</ol>
+            <ol>Webinars</ol>
+            <ol>Podcasts</ol>
+            <ol>Bootcamps</ol>
+            <ol>Assessments</ol></a>
         </section>
     </footer>
 
